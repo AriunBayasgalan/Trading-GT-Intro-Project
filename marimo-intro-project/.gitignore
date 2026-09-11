@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebook / marimo runtime data
+__marimo__/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# Editor and OS noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo

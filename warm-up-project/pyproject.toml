@@ -1,0 +1,9 @@
+[project]
+name = "woox-l2-ingester"
+version = "0.1.0"
+description = "Low-latency Woo X order book streaming using picows"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "picows>=1.4.0",
+]
