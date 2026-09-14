@@ -14,6 +14,8 @@ A lightweight live WebSocket client that subscribes to the Woo X Level 2 order b
 
 - Python 3.10+
 - `uv` installed
+- `uv add bintrees`
+- `uv add httpx sortedcontainers`
 
 ## Setup
 

@@ -5,5 +5,8 @@ description = "Low-latency Woo X order book streaming using picows"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "bintrees>=2.2.0",
+    "httpx>=0.28.1",
     "picows>=1.4.0",
+    "sortedcontainers>=2.4.0",
 ]
